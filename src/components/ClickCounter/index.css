@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.zero {
+  color: #c20a72;
+}
+
+.heading {
+  text-align: center;
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  border-width: 0px;
+  padding: 5px;
+  color: #ffffff;
+}
